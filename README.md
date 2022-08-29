@@ -9,3 +9,4 @@
 ### 1. 코어 자바스크립트
 
 - [소개](./1-coreJS.md/1-intro.md)
+- [자바스크립트 기본](./1-coreJS.md/2-basic.md)
