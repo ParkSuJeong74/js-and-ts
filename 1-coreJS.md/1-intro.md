@@ -4,6 +4,8 @@
 
 JS와 호스트 환경 소개
 
+[공부 대상](https://ko.javascript.info/getting-started)
+
 <details>
   <summary>자바스크립트란?</summary>
   자바스크립트는 웹페이지에 생동감을 불어넣기 위해 만들어진 프로그래밍 언어이다. 자바스크립트로 작성한 프로그램은 `스크립트Script`라고 부른다. html 안에 작성하면 웹페이지를 불러올 때 스크립트가 자동으로 실행된다. 컴파일 없이도 작성할 수 있고 실행도 가능하다.
@@ -73,3 +75,15 @@ IDE는 프로젝트 전체를 관장하는 다양한 기능과 쾌적한 환경�
 >
 > vscode는 IDE이고 atom은 경량 에디터이다.
 
+<details>
+  <summary>개발자 콘솔</summary>
+  브라우저에는 `개발자 도구`가 내장되어 있다. 대부분 chrome이나 firefox를 이용해 개발을 하는데, 두 브라우저의 개발자 도구가 훌륭하기 때문이다.
+
+chrome과 대부분의 브라우저의 개발자 도구는 `F12`이고 mac 사용자는 `Cmd+Opt+J`이다. console 패널이 기본이고, 에러 메세지는 빨간줄로 우측에 에러가 발생한 파일과 위치가 표시된다. 아래 커맨드 라인Command line에 JS 명령어를 입력하면 실행할 수 있다. 커맨드라인에서 shift+enter를 누르면 multi-line input도 가능하다.
+
+safari는 mac 전용 브라우저로 개발자 메뉴를 명시적으로 활성화해야 사용할 수 있다.
+  </details>
+
+> 알게된 내용 정리
+>
+> firefox도 chrome과 비슷한 브라우저 환경을 제공한다면 한번 써봐야겠다.

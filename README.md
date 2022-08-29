@@ -8,4 +8,4 @@
 
 ### 1. 코어 자바스크립트
 
-- [소개](./1-coreJS.md/intro.md)
+- [소개](./1-coreJS.md/1-intro.md)
